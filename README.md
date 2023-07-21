@@ -62,8 +62,3 @@ optional arguments:
 ### Evaluate
 ```bash  
 python objective_evaluation.py
-
-(tensor_board_service) d:\anaconda3\envs\avse_challenge\avse_challenge-main\baseline\avse2_new\logs\lightning_logs\version_0>tensorboard --logdir=.
-TensorFlow installation not found - running with reduced feature set.
-Serving TensorBoard on localhost; to expose to the network, use a proxy or pass --bind_all
-TensorBoard 2.10.0 at http://localhost:6006/ (Press CTRL+C to quit)
